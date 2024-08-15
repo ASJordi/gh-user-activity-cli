@@ -10,7 +10,10 @@ public class Main {
     public static void processSingleArgument(String[] args) {
         String arg = args[0];
 
-        if (arg.equals("-h") || arg.equals("--help")) showHelp();
+        if (arg.equals("-h") || arg.equals("--help")) {
+            showHelp();
+            return;
+        }
 
         UserActivity userActivity = new UserActivity(arg);
         userActivity.showActivity();

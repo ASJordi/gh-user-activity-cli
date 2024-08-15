@@ -2,13 +2,13 @@
   <h1 align="center"><a href="https://github.com/ASJordi/gh-user-activity-cli">GitHub User Activity CLI</a></h1>
 
   <p align="center">CLI app to fetch the recent activity of a GitHub user and display it in the terminal.</p>
-
+</div>
 
 ## About :computer:
 
 Simple command line interface (CLI) to fetch the recent activity of a GitHub user and display it in the terminal. The app uses the GitHub API to fetch the user's activity and display it in the terminal.
 
-<img src="src/main/resources/app01.png" alt="GitHub User Activity CLI" width="400"/>
+<img src="src/main/resources/app01.png" alt="GitHub User Activity CLI" width="400"/> <br>
 <img src="src/main/resources/app02.png" alt="GitHub User Activity CLI" width="400"/>
 
 ## Features :sparkles:

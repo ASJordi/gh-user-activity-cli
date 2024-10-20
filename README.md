@@ -73,3 +73,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Jordi Ayala - [@ASJordi](https://twitter.com/ASJordi)
 
 Project Link: [https://github.com/ASJordi/gh-user-activity-cli](https://github.com/ASJordi/gh-user-activity-cli)
+
+Reference: [https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/github-user-activity)
